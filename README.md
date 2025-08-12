@@ -2,7 +2,9 @@
 
 <p align="center">
   
-  ![Banner Futurista](./banner_futurista.gif)
+  ![Ashutosh's github activity graph](https://ssr-contributions-svg.vercel.app/_/carolbarbosa101?chart=3dbar&gap=0.6&scale=2&flatten=2&animation=wave&animation_duration=1&animation_delay=0.05&animation_amplitude=20&animation_frequency=0.5&animation_wave_center=10_0&format=svg&weeks=30&theme=pink)
+
+
 
 
 </p>
@@ -22,25 +24,17 @@ Ligada em tecnologia ⚡ <br>
 
 
 
+### Estatística🎈
 
-### 📊 Estatísticas
-<p align="center">
-  <img 
-       src="https://github-readme-stats.vercel.app/api?username=SarahEliziario&show_icons=true&bg_color=000000&title_color=fff9c4&text_color=fff9c4&icon_color=fff9c4" 
-       height="150" 
-  />
-  <img 
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=SarahEliziario&layout=compact&bg_color=000000&title_color=fff9c4&text_color=fff9c4" 
-       height="150" 
-  />
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=saraheliziario&show_icons=true&theme=transparent&text_color=800040&bg_color=fff0f5&icon_color=d147a3)
+
+![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=saraheliziario&layout=compact&theme=transparent&text_color=800040&bg_color=fff0f5&border_color=d147a3)
 </p>
+
 
 <p align="center">
   
- ## Linguagens 🧸
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML logo" />  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JS logo" /> </p>
+ 
 
 
 ## Projetos 🧑‍🎓
@@ -48,13 +42,8 @@ Ligada em tecnologia ⚡ <br>
 
 ## Meus contatos 🐈‍⬛
 
-  <a href="mailto:sarah1202brito@gmail.com" target="_blank">
-    <img src="https://img.icons8.com/ios-filled/50/ffffff/new-post.png" alt="E-mail" height="40"/> Email
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/seu-perfil/" target="_blank">
-  <img src="https://img.icons8.com/ios-filled/50/ffffff/linkedin.png" alt="LinkedIn" height="40"/>
- Likedin 
-  </a>
-</p>
+  [![Email](https://img.shields.io/badge/Email-D148A3?style=for-the-badge&logo=gmail&logoColor=fff&color=FBEAF9)](mailto:sarah1202brito@gmail.com)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-D148A3?style=for-the-badge&logo=linkedin&logoColor=fff&color=FBEAF9)](https://www.linkedin.com/in/SarahEliziariodeBrito)  
+
+  
   
