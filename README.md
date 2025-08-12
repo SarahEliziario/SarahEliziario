@@ -3,31 +3,32 @@
 
 
 
-<p align="center">Estudante de analise e desenvolvimento de sistemas  💻</p>
+<p align="center"> Sou desenvolvedora de sistemas, responsável principalmente por deixar sites mais interativos e com boa funcionalidade.Adoro tecnologia, tento sempre aprender mais a cada dia🧸</p>
+<br> <br>
+
+## 🍂Formações
+→⁠_⁠→ de fundamentos do design grafico <br>
+→⁠_⁠→ powerpoint2016-básico 
 
 
 
-## Sobre mim 💡
-Desenvolvedora front-end 🪐<br>
-programadora 🌞 <br>
-Ligada em tecnologia ⚡ <br>
 
 
 
 
 
-### Estatística🎈
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=saraheliziario&show_icons=true&theme=transparent&text_color=800040&bg_color=fff0f5&icon_color=d147a3)
 
-![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=saraheliziario&layout=compact&theme=transparent&text_color=800040&bg_color=fff0f5&border_color=d147a3)
+## 🌹Estatística
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=saraheliziario&show_icons=true&theme=transparent&text_color=800040&bg_color=fff0f5&icon_color=d147a3)![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=saraheliziario&layout=compact&theme=transparent&text_color=800040&bg_color=fff0f5&border_color=d147a3)
 </p>
 
 
 <p align="center">
   
  
-<h3> 🌷Linguagens: </h3>
+<h3>🌷Linguagens: </h3>
 <img align="left" height="50" width="50" src="https://github.com/carolbarbosa101/carolbarbosa101/assets/44561610/670ce35c-0b3c-4bec-ba1e-797c40ebcfc6">
 
 <img align="left" height="50" width="50" src="https://github.com/carolbarbosa101/carolbarbosa101/assets/44561610/5d8aa673-1335-459f-a3c8-7149be4296d6">
@@ -37,7 +38,7 @@ Ligada em tecnologia ⚡ <br>
 
 
 
-## My contats
+<h3>🍄Minhas redes: </h3> 
 
   [![Email](https://img.shields.io/badge/Email-D148A3?style=for-the-badge&logo=gmail&logoColor=fff&color=FBEAF9)](mailto:sarah1202brito@gmail.com)  [![LinkedIn](https://img.shields.io/badge/LinkedIn-D148A3?style=for-the-badge&logo=linkedin&logoColor=fff&color=FBEAF9)](https://www.linkedin.com/in/sarahEliziariobrito) [![Instagram](https://img.shields.io/badge/Instagram-D148A3?style=for-the-badge&logo=instagram&logoColor=fff&color=FBEAF9)](https://www.instagram.com/saraheliziario08)
 
