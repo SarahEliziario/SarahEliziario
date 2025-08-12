@@ -1,13 +1,8 @@
-<!-- Banner / imagem de capa -->
+
+<h1 aling="center"> oiiiiiiiiiiiiiii </h1>
 
 
 
-
-
-</p>
-
-<!-- Saudação -->
-<h1 align="center"> Oii, sou a Sarah Eliziário 💫</h1>
 <p align="center">Estudante de analise e desenvolvimento de sistemas  💻</p>
 
 
@@ -32,12 +27,17 @@ Ligada em tecnologia ⚡ <br>
 <p align="center">
   
  
+<h3> 🌷Linguagens: </h3>
+<img align="left" height="50" width="50" src="https://github.com/carolbarbosa101/carolbarbosa101/assets/44561610/670ce35c-0b3c-4bec-ba1e-797c40ebcfc6">
+
+<img align="left" height="50" width="50" src="https://github.com/carolbarbosa101/carolbarbosa101/assets/44561610/5d8aa673-1335-459f-a3c8-7149be4296d6">
+
+<img align="left"  height="50" width="50" src="https://github.com/carolbarbosa101/carolbarbosa101/assets/44561610/b8182e38-59d0-4707-96dd-57781d7fa0cd"> <br> <br>
 
 
-## Projetos 🧑‍🎓
 
 
-## Meus contatos 🐈‍⬛
+## My contats
 
   [![Email](https://img.shields.io/badge/Email-D148A3?style=for-the-badge&logo=gmail&logoColor=fff&color=FBEAF9)](mailto:sarah1202brito@gmail.com)  [![LinkedIn](https://img.shields.io/badge/LinkedIn-D148A3?style=for-the-badge&logo=linkedin&logoColor=fff&color=FBEAF9)](https://www.linkedin.com/in/sarahEliziariobrito) [![Instagram](https://img.shields.io/badge/Instagram-D148A3?style=for-the-badge&logo=instagram&logoColor=fff&color=FBEAF9)](https://www.instagram.com/saraheliziario08)
 
