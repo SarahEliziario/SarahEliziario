@@ -1,8 +1,5 @@
 <!-- Banner / imagem de capa -->
 
-<p align="center">
-  
-  ![Ashutosh's github activity graph](https://ssr-contributions-svg.vercel.app/_/carolbarbosa101?chart=3dbar&gap=0.6&scale=2&flatten=2&animation=wave&animation_duration=1&animation_delay=0.05&animation_amplitude=20&animation_frequency=0.5&animation_wave_center=10_0&format=svg&weeks=30&theme=pink)
 
 
 
@@ -43,7 +40,12 @@ Ligada em tecnologia ⚡ <br>
 ## Meus contatos 🐈‍⬛
 
   [![Email](https://img.shields.io/badge/Email-D148A3?style=for-the-badge&logo=gmail&logoColor=fff&color=FBEAF9)](mailto:sarah1202brito@gmail.com)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-D148A3?style=for-the-badge&logo=linkedin&logoColor=fff&color=FBEAF9)](https://www.linkedin.com/in/SarahEliziariodeBrito)  
 
-  
-  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-D148A3?style=for-the-badge&logo=linkedin&logoColor=fff&color=FBEAF9)](https://www.linkedin.com/in/sarahEliziariobrito)    
+
+
+
+  <p align="center">
+    
+  ![Ashutosh's github activity graph](https://ssr-contributions-svg.vercel.app/_/carolbarbosa101?chart=3dbar&gap=0.6&scale=2&flatten=2&animation=wave&animation_duration=1&animation_delay=0.05&animation_amplitude=20&animation_frequency=0.5&animation_wave_center=10_0&format=svg&weeks=30&theme=pink)
+
