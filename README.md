@@ -1,7 +1,10 @@
 <!-- Banner / imagem de capa -->
+
 <p align="center">
-  <img src= (https://github.com/user-attachments/assets/d7c61661-38c6-4442-9ebb-6710ac4f8dbf)
- alt="banner" width="100%">
+  
+  ![Banner Futurista](./banner_futurista.gif)
+
+
 </p>
 
 <!-- Saudação -->
