@@ -15,8 +15,8 @@
 
 ## Sobre mim 💡
 Desenvolvedora front-end 🪐<br>
-programadadora developer 🌞 <br>
-Ligada em tencologia ⚡ <br>
+programadora 🌞 <br>
+Ligada em tecnologia ⚡ <br>
 
 
 
