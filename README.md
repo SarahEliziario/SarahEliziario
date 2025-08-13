@@ -1,14 +1,9 @@
 
-<h1 aling="center"> oiiiiiiiiiiiiiii </h1>
 
 
 
-<p align="center"> Sou desenvolvedora de sistemas, responsável principalmente por deixar sites mais interativos e com boa funcionalidade.Adoro tecnologia, tento sempre aprender mais a cada dia🧸</p>
-<br> <br>
 
-## 🍂Formações
-→⁠_⁠→ de fundamentos do design grafico <br>
-→⁠_⁠→ powerpoint2016-básico 
+
 
 
 
