@@ -1,6 +1,5 @@
-<img src="https://i.pinimg.com/1200x/e0/9c/5b/e09c5b40ff625aeeecd20e24c67c9d96.jpg" width="700">
+<img src="https://i.pinimg.com/1200x/e0/9c/5b/e09c5b40ff625aeeecd20e24c67c9d96.jpg" width=100% >
  
-
 
 
 
@@ -42,3 +41,4 @@
     
   ![Ashutosh's github activity graph](https://ssr-contributions-svg.vercel.app/_/sarahEliziario?chart=3dbar&gap=0.6&scale=2&flatten=2&animation=wave&animation_duration=1&animation_delay=0.05&animation_amplitude=20&animation_frequency=0.5&animation_wave_center=10_0&format=svg&weeks=30&theme=pink) >
 
+<img src="https://i.pinimg.com/1200x/21/8c/82/218c8291e6dc43b9a40fd8e6b5970823.jpg" width=100% >
