@@ -2,7 +2,7 @@
   
    <h1 align="center"> <em> ✨Sarah Eliziário✨ </em>  </h1> <br>
   
-   ##   🎠Sobre mim 
+   ## 🎠 Sobre mim 
    <ul>
      <li><em>📍     Sou de São Paulo-SP </em></li>
      <li><em>🎓 Estudante de análise e desenvolvimento de sistemas</em></li>
@@ -10,6 +10,17 @@
      <li><em>🗽  Em busca de aprimorar minhas habilidades técnicas </em> </li>
      
    </ul>
+
+  
+  
+  ## 🏆 Certificados
+  <ul>
+    <li> <em>Lei geral de proteção de dados (LGPD). Fundação Bradesco  </em></li>
+    <li> <em>Fundamentos do design gráfico. Fundação Bradesco</em> </li>
+    <li> <em> Introdução ao Scratch: Linguagem de programação. Fundação Bradesco</em> </li>
+    <li> <em>Microsoft Powerpoint 2016-Básico. Fundação Bradesco</em> </li>
+    <li> <em>Inglês intermediário CEFR level B1. Education first</em> </li>
+  </ul>
 
    
 
