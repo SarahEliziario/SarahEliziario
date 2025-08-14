@@ -1,6 +1,17 @@
 <img src="https://i.pinimg.com/originals/0f/1f/d2/0f1fd2f8e3c0a1e2676ad7660443711c.gif"  width=100%> <br> <br>
   
-   <h1 align="center"> <em> ✨Sarah Eliziário✨ </em>  </h1>
+   <h1 align="center"> <em> ✨Sarah Eliziário✨ </em>  </h1> <br>
+  
+   ##   🎠Sobre mim 
+   <ul>
+     <li><em>📍     Sou de São Paulo-SP </em></li>
+     <li><em>🎓 Estudante de análise e desenvolvimento de sistemas</em></li>
+     <li><em>🎯 Objetivo: Atuar como desenvolvedora de software </em> </li>
+     <li><em>🗽  Em busca de aprimorar minhas habilidades técnicas </em> </li>
+     
+   </ul>
+
+   
 
 
 
