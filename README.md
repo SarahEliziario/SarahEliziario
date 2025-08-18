@@ -57,7 +57,7 @@
 
 <h3>🍄Minhas redes: </h3> 
 
-  [![Email](https://img.shields.io/badge/Email-D148A3?style=for-the-badge&logo=gmail&logoColor=fff&color=FBEAF9)](mailto:sarah1202brito@gmail.com)  [![LinkedIn](https://img.shields.io/badge/LinkedIn-D148A3?style=for-the-badge&logo=linkedin&logoColor=fff&color=FBEAF9)](https://www.linkedin.com/in/sarahEliziariobrito) [!
+  [![Email](https://img.shields.io/badge/Email-D148A3?style=for-the-badge&logo=gmail&logoColor=fff&color=FBEAF9)](mailto:sarah1202brito@gmail.com)  [![LinkedIn](https://img.shields.io/badge/LinkedIn-D148A3?style=for-the-badge&logo=linkedin&logoColor=fff&color=FBEAF9)](https://www.linkedin.com/in/sarahEliziariobrito) 
 
 
   <p align="center"
