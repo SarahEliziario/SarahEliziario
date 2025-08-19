@@ -46,19 +46,21 @@
   
  
 <h3>🌷Linguagens: </h3>
-<img align="left" height="50" width="50" src="https://github.com/carolbarbosa101/carolbarbosa101/assets/44561610/670ce35c-0b3c-4bec-ba1e-797c40ebcfc6">
 
-<img align="left" height="50" width="50" src="https://github.com/carolbarbosa101/carolbarbosa101/assets/44561610/5d8aa673-1335-459f-a3c8-7149be4296d6">
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=000)](https://developer.mozilla.org/docs/Web/JavaScript)
+[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=fff)](https://developer.mozilla.org/docs/Web/HTML)
+[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=fff)](https://developer.mozilla.org/docs/Web/CSS)
 
-<img align="left"  height="50" width="50" src="https://github.com/carolbarbosa101/carolbarbosa101/assets/44561610/b8182e38-59d0-4707-96dd-57781d7fa0cd"> <br> <br>
 
 
 
 
 <h3>🍄Minhas redes: </h3> 
 
-  [![Email](https://img.shields.io/badge/Email-D148A3?style=for-the-badge&logo=gmail&logoColor=fff&color=FBEAF9)](mailto:sarah1202brito@gmail.com)  [![LinkedIn](https://img.shields.io/badge/LinkedIn-D148A3?style=for-the-badge&logo=linkedin&logoColor=fff&color=FBEAF9)](https://www.linkedin.com/in/sarahEliziariobrito) 
-![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=fff&color=E8E9FB)] (1359651117662998762)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sarahEliziariobrito)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sarah1202brito@gmail.com)
+   [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/1359651117662998762)
+
 
 
   <p align="center"
