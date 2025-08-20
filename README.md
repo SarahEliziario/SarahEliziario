@@ -2,7 +2,7 @@
   
    <h1 align="center"> <em> Sarah Eliziário </em>  </h1> <br>
   
-   ## 🐱‍👤 About Me
+   ##  About Me
 <ul>
   <li><em>📍 I am from São Paulo, SP</em></li>
   <li><em>🎓 Student of Analysis and Systems Development</em></li>
@@ -15,7 +15,7 @@
 
   
   
-  ## 🏆 Certifications
+  ##  Certifications
 <ul>
   <li> <em>General Data Protection Law (LGPD). Fundação Bradesco</em> </li>
   <li> <em>Fundamentals of Graphic Design. Fundação Bradesco</em> </li>
@@ -39,7 +39,7 @@
 
 
 
-## 🐱‍💻 Statistics
+##  Statistics
 
 ![Estatísticas GitHub](https://github-readme-stats.vercel.app/api?username=Saraheliziario&show_icons=true&title_color=FFFFFF&icon_color=FF0055&text_color=C0C0C0&bg_color=0D0D0D&hide_border=true) ![GitHub Streak](https://streak-stats.demolab.com?user=Saraheliziario&theme=dark&background=0D0D0D&border=333333&ring=FF0055&fire=FF0055&currStreakLabel=FFFFFF&sideNums=C0C0C0&currStreakNum=FFFFFF&sideLabels=AAAAAA&dates=777777) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Saraheliziario&layout=compact&theme=dark&title_color=FFFFFF&text_color=C0C0C0&bg_color=0D0D0D&hide_border=true)
 
@@ -54,7 +54,7 @@
 <p align="center">
   
  
-<h3> 🐱‍🏍Languages: </h3>
+<h3> Languages: </h3>
 
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=000)](https://developer.mozilla.org/docs/Web/JavaScript)
 [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=fff)](https://developer.mozilla.org/docs/Web/HTML)
@@ -64,7 +64,7 @@
 
 
 
-<h3> 🐱‍🚀My socials: </h3> 
+<h3> My socials: </h3> 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sarahEliziariobrito)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sarah1202brito@gmail.com)
