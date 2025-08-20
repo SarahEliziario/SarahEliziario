@@ -1,26 +1,29 @@
-<img src="https://i.pinimg.com/originals/0f/1f/d2/0f1fd2f8e3c0a1e2676ad7660443711c.gif"  width=100%> <br> <br>
+<img src= "https://i.pinimg.com/originals/44/94/40/4494406b0e685995eaeb744e1ff0919c.gif"  width=100%> <br> <br>
   
-   <h1 align="center"> <em> ✨Sarah Eliziário✨ </em>  </h1> <br>
+   <h1 align="center"> <em> Sarah Eliziário </em>  </h1> <br>
   
-   ## 🎠 Sobre mim 
-   <ul>
-     <li><em>📍     Sou de São Paulo-SP </em></li>
-     <li><em>🎓 Estudante de análise e desenvolvimento de sistemas</em></li>
-     <li><em>🎯 Objetivo: Atuar como desenvolvedora de software </em> </li>
-     <li><em>🗽  Em busca de aprimorar minhas habilidades técnicas </em> </li>
+   ## 🐱‍👤 About Me
+<ul>
+  <li><em>📍 I am from São Paulo, SP</em></li>
+  <li><em>🎓 Student of Analysis and Systems Development</em></li>
+  <li><em>🎯 Goal: To work as a software developer</em></li>
+  <li><em>🗽 Seeking to improve my technical skills</em></li>
+</ul>
+>
      
    </ul>
 
   
   
-  ## 🏆 Certificados
-  <ul>
-    <li> <em>Lei geral de proteção de dados (LGPD). Fundação Bradesco  </em></li>
-    <li> <em>Fundamentos do design gráfico. Fundação Bradesco</em> </li>
-    <li> <em> Introdução ao Scratch: Linguagem de programação. Fundação Bradesco</em> </li>
-    <li> <em>Microsoft Powerpoint 2016-Básico. Fundação Bradesco</em> </li>
-    <li> <em>Inglês intermediário CEFR level B1. Education first</em> </li>
-  </ul>
+  ## 🏆 Certifications
+<ul>
+  <li> <em>General Data Protection Law (LGPD). Fundação Bradesco</em> </li>
+  <li> <em>Fundamentals of Graphic Design. Fundação Bradesco</em> </li>
+  <li> <em>Introduction to Scratch: Programming Language. Fundação Bradesco</em> </li>
+  <li> <em>Microsoft PowerPoint 2016 – Basic. Fundação Bradesco</em> </li>
+  <li> <em>Intermediate English CEFR Level B1. Education First</em> </li>
+</ul>
+
 
    
 
@@ -36,7 +39,7 @@
 
 
 
-## 🌹Estatística
+## 🐱‍💻 Statistics
 
 ![Estatísticas GitHub](https://github-readme-stats.vercel.app/api?username=Saraheliziario&show_icons=true&title_color=FFFFFF&icon_color=FF0055&text_color=C0C0C0&bg_color=0D0D0D&hide_border=true) ![GitHub Streak](https://streak-stats.demolab.com?user=Saraheliziario&theme=dark&background=0D0D0D&border=333333&ring=FF0055&fire=FF0055&currStreakLabel=FFFFFF&sideNums=C0C0C0&currStreakNum=FFFFFF&sideLabels=AAAAAA&dates=777777) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Saraheliziario&layout=compact&theme=dark&title_color=FFFFFF&text_color=C0C0C0&bg_color=0D0D0D&hide_border=true)
 
@@ -51,7 +54,7 @@
 <p align="center">
   
  
-<h3>🌷Linguagens: </h3>
+<h3> 🐱‍🏍Languages: </h3>
 
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=000)](https://developer.mozilla.org/docs/Web/JavaScript)
 [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=fff)](https://developer.mozilla.org/docs/Web/HTML)
@@ -61,7 +64,7 @@
 
 
 
-<h3>🍄Minhas redes: </h3> 
+<h3> 🐱‍🚀My socials: </h3> 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sarahEliziariobrito)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sarah1202brito@gmail.com)
@@ -69,8 +72,8 @@
 
 
 
-  <p align="center"
+  
     
-  ![Ashutosh's github activity graph](https://ssr-contributions-svg.vercel.app/_/sarahEliziario?chart=3dbar&gap=0.6&scale=2&flatten=2&animation=wave&animation_duration=1&animation_delay=0.05&animation_amplitude=20&animation_frequency=0.5&animation_wave_center=10_0&format=svg&weeks=30&theme=pink) >
+  
 
-<img src="https://i.pinimg.com/1200x/b9/48/49/b948495d643b72645bc254f4536a6c31.jpg" width=100% >
+
