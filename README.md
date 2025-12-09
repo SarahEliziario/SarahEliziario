@@ -41,7 +41,7 @@
 
 ##  Statistics
 
-![Estatísticas GitHub](https://github-readme-stats.vercel.app/api?username=Saraheliziario&show_icons=true&title_color=FFFFFF&icon_color=FF0055&text_color=C0C0C0&bg_color=0D0D0D&hide_border=true)  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Saraheliziario&layout=compact&theme=dark&title_color=FFFFFF&text_color=C0C0C0&bg_color=0D0D0D&hide_border=true)
+![Estatísticas GitHub](https://github-readme-stats.vercel.app/api?username=SarahEliziario&show_icons=true&title_color=FFFFFF&icon_color=FF0055&text_color=C0C0C0&bg_color=0D0D0D&hide_border=true)  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SarahEliziario&layout=compact&theme=dark&title_color=FFFFFF&text_color=C0C0C0&bg_color=0D0D0D&hide_border=true)
 
 
 
