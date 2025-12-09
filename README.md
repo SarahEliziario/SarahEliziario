@@ -9,7 +9,7 @@
   <li><em>🎯 Goal: To work as a software developer</em></li>
   <li><em>🗽 Seeking to improve my technical skills</em></li>
 </ul>
->
+
      
    </ul>
 
