@@ -5,7 +5,7 @@
    ##  About Me
 <ul>
   <li><em>📍 I am from São Paulo, SP</em></li>
-  <li><em>🎓 Student of Analysis and Systems Development</em></li>
+  <li><em>🎓 Student of Software Engineering.</em></li>
   <li><em>🎯 Goal: To work as a software developer</em></li>
   <li><em>🗽 Seeking to improve my technical skills</em></li>
 </ul>
