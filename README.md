@@ -25,7 +25,7 @@
 </ul>
 
 
-   
+## Statistics
 
 
 
@@ -39,9 +39,9 @@
 
 
 
-##  Statistics
 
-![Estatísticas GitHub](https://github-readme-stats.vercel.app/api?username=SarahEliziario&show_icons=true&title_color=FFFFFF&icon_color=FF0055&text_color=C0C0C0&bg_color=0D0D0D&hide_border=true)  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SarahEliziario&layout=compact&theme=dark&title_color=FFFFFF&text_color=C0C0C0&bg_color=0D0D0D&hide_border=true)
+
+
 
 
 
@@ -56,9 +56,13 @@
  
 <h3> Languages: </h3>
 
+[![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white)](https://www.java.com/)
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=000)](https://developer.mozilla.org/docs/Web/JavaScript)
 [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=fff)](https://developer.mozilla.org/docs/Web/HTML)
 [![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=fff)](https://developer.mozilla.org/docs/Web/CSS)
+
+
+
 
 
 
@@ -68,7 +72,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sarahEliziariobrito)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sarah1202brito@gmail.com)
-   [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/1359651117662998762)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/1359651117662998762)
 
 
 
