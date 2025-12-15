@@ -29,10 +29,10 @@
 
 <div align="center">
   <!-- Primeiro gráfico (maior) -->
-  <img height="210em" src="https://github-readme-sooty.vercel.app/api?username=SarahEliziario&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&hide_title=true&show_icons=true&theme=dark&hide_border=true&bg_color=1a001f&icon_color=caa6ff&title_color=e6d6ff&text_color=e6d6ff&custom_title=GitHub%20Stats&border_radius=0&count_private=true" />
+  <img height="220em" src="https://github-readme-sooty.vercel.app/api?username=SarahEliziario&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&hide_title=true&show_icons=true&theme=dark&hide_border=true&bg_color=000000&icon_color=ffffff&title_color=ffffff&text_color=ffffff&count_private=true" />
 
   <!-- Segundo gráfico (menor) -->
-  <img height="160em" src="https://github-readme-sooty.vercel.app/api/top-langs/?username=SarahEliziario&layout=compact&hide_title=true&show_icons=true&theme=dark&hide_border=true&bg_color=1a001f&icon_color=caa6ff&title_color=e6d6ff&text_color=e6d6ff&custom_title=GitHub%20Stats&langs_count=12&border_radius=0&include_private=true" />
+  <img height="150em" src="https://github-readme-sooty.vercel.app/api/top-langs/?username=SarahEliziario&layout=compact&hide_title=true&theme=dark&hide_border=true&bg_color=000000&title_color=ffffff&text_color=ffffff&langs_count=12&include_private=true" />
 </div>
 
    
