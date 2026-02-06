@@ -17,11 +17,11 @@
   
   ##  Certifications
 <ul>
-  <li> <em>General Data Protection Law (LGPD). Fundação Bradesco</em> </li>
-  <li> <em>Fundamentals of Graphic Design. Fundação Bradesco</em> </li>
-  <li> <em>Introduction to Scratch: Programming Language. Fundação Bradesco</em> </li>
-  <li> <em>Microsoft PowerPoint 2016 – Basic. Fundação Bradesco</em> </li>
-  <li> <em>Intermediate English CEFR Level B1. Education First</em> </li>
+  <li> <em>General Data Protection Law (LGPD).</em> </li>
+  <li> <em>Fundamentals of Graphic Design.</em> </li>
+  <li> <em>Introduction to Scratch: Programming Language. </em> </li>
+  <li> <em>Microsoft PowerPoint 2016 – Basic. </em> </li>
+  <li> <em>Intermediate English CEFR Level B1. </em> </li>
 </ul>
 
 
